@@ -1,0 +1,570 @@
+[
+    {
+        "id": 1,
+        "title": "House",
+        "address": {
+            "street": "Copacabana Beach",
+            "city": "Rio de Janeiro",
+            "zipcode": "12345-678",
+            "geo": {
+                "lat": "-37.3159",
+                "lng": "81.1496"
+            }
+        },
+        "description": "This is a beautiful house located in Copacabana Beach, Rio de Janeiro. It features modern amenities and a stunning view of the beach. The house has 1 bedroom, 1 bathroom, and a garage. With a total area of 425 square meters, it offers plenty of space for comfortable living. Security measures are also in place for your peace of mind. Don't miss out on this opportunity!",
+        "pictures": [
+            "https://i.pinimg.com/236x/64/02/03/6402031e3fa49562196abc7e5abc3d4a.jpg",
+            "https://i.pinimg.com/564x/94/53/bd/9453bd6e4ea22a9eccb6c0410c788a31.jpg",
+            "https://i.pinimg.com/236x/ef/ee/50/efee5004ad5a59b9ef1385212a07db08.jpg",
+            "https://i.pinimg.com/236x/6c/b3/06/6cb3067bbb4ef007d9dcc338d220b130.jpg",
+            "https://i.pinimg.com/236x/99/8a/fe/998afef55563c73af12d2ea7a9420985.jpg",
+            "https://i.pinimg.com/236x/50/be/a1/50bea1b3b9de8b810d2c7147beaa58b2.jpg",
+            "https://i.pinimg.com/236x/34/f2/e2/34f2e26c78d503d9ae93d9081bf4e7ba.jpg",
+            "https://i.pinimg.com/564x/0e/50/cc/0e50cc057a770194f9ecb80d244e32e3.jpg",
+            "https://i.pinimg.com/236x/ba/3b/5e/ba3b5e25b4c8118a067af13bedcf023f.jpg",
+            "https://i.pinimg.com/236x/84/97/26/8497266c893ac5b36a94da8a44a8ab77.jpg",
+            "https://i.pinimg.com/236x/60/88/ef/6088efb6b0f218390ceff20d84806529.jpg",
+            "https://i.pinimg.com/236x/9a/0f/c6/9a0fc6f05e552fbdd808011fd7a2635c.jpg"
+        ],
+        "bed": 1,
+        "bath": 1,
+        "security": true,
+        "garage": true,
+        "rent": false,
+        "extent": 425,
+        "price": "100000000"
+    },
+    {
+        "id": 2,
+        "title": "Land and Lots",
+        "address": {
+            "street": "Ipanema Beach",
+            "city": "Rio de Janeiro",
+            "zipcode": "98765-432",
+            "geo": {
+                "lat": "-22.9719",
+                "lng": "-43.1824"
+            }
+        },
+        "description": "This property is a prime land located in the beautiful area of Ipanema Beach, Rio de Janeiro. It offers a fantastic opportunity for investment or development. With a total area of 85 square meters, this land provides great potential for various purposes. The pictures give you a glimpse of the incredible views you can enjoy from this location. Whether you're looking to build your dream home or start a new project, this land and lot is an excellent choice.",
+        "pictures": [
+            "https://i.pinimg.com/236x/39/3b/84/393b844fea3860c33e604e6382da27ec.jpg"
+        ],
+        "bed": 0,
+        "bath": 0,
+        "security": false,
+        "garage": false,
+        "rent": false,
+        "extent": 85,
+        "price": "80000"
+    },
+    {
+        "id": 3,
+        "title": "House",
+        "address": {
+            "street": "Pelourinho",
+            "city": "Salvador",
+            "zipcode": "54321-098",
+            "geo": {
+                "lat": "-22.9845",
+                "lng": "-43.1987"
+            }
+        },
+        "description": "This charming house is located in the historic neighborhood of Pelourinho in Salvador, Brazil. With its vibrant cultural heritage and colorful streets, Pelourinho offers a unique living experience. This house features one bedroom, one bathroom, and a spacious living area. The pictures showcase the beauty of the house and its surroundings. Enjoy the convenience of living in a central location close to shops, restaurants, and cultural attractions. Don't miss this opportunity to own a piece of history in Salvador!",
+        "pictures": [
+            "https://i.pinimg.com/236x/f3/28/9b/f3289b346569903105918fd5f887582b.jpg",
+            "https://i.pinimg.com/236x/7a/ae/27/7aae273ad9cc4490e6c849c5b76fcf12.jpg",
+            "https://i.pinimg.com/236x/a6/6c/b0/a66cb00c5f9043b06604d89a82b8b0e7.jpg",
+            "https://i.pinimg.com/236x/f4/3d/b1/f43db15d5034b67c37777259922d57ed.jpg",
+            "https://i.pinimg.com/236x/64/a0/b5/64a0b50b189c4928c5d378a673c69906.jpg",
+            "https://i.pinimg.com/236x/80/23/a5/8023a58ca1f4885e63bc6ab8ce215b01.jpg"
+        ],
+        "bed": 1,
+        "bath": 1,
+        "security": false,
+        "extent": 250,
+        "price": "100000000"
+    },
+    {
+        "id": 4,
+        "title": "Office",
+        "address": {
+            "street": "Floresta Amazônica",
+            "city": "Manaus",
+            "zipcode": "67890-123",
+            "geo": {
+                "lat": "-12.9722",
+                "lng": "-38.5024"
+            }
+        },
+        "description": "This modern office space is located in the heart of the Amazon rainforest in Manaus, Brazil. Enjoy a peaceful and serene working environment surrounded by nature's beauty. The office features a spacious layout, perfect for productivity and collaboration. With one bathroom and ample natural light, this space provides a comfortable and inspiring atmosphere. The provided picture showcases a simple and stylish office setup, ready for you to personalize and make it your own. Take advantage of this unique opportunity to work in a tranquil setting while still enjoying the convenience of being in a vibrant city. Don't miss out on this incredible office space in the Amazon rainforest!",
+        "pictures": [
+            "https://imagens-revista.vivadecora.com.br/uploads/2020/04/decora%C3%A7%C3%A3o-simples-para-home-office-na-sala-Foto-GettyImages.jpg"
+        ],
+        "bed": 0,
+        "bath": 1,
+        "security": false,
+        "garage": false,
+        "rent": false,
+        "extent": 63,
+        "price": "120000"
+    },
+    {
+        "id": 5,
+        "title": "Office",
+        "address": {
+            "street": "Avenida Paulista",
+            "city": "Sao Paulo",
+            "zipcode": "21098-765",
+            "geo": {
+                "lat": "-3.4653",
+                "lng": "-62.2159"
+            }
+        },
+        "description": "This modern and spacious office is located in the heart of Avenida Paulista, one of the most prestigious business districts in São Paulo. With its prime location, this office offers excellent connectivity and convenience for professionals and businesses. The office features a comfortable workspace, perfect for productivity and collaboration. It includes a private bathroom and ensures a secure environment with advanced security systems. The office is available for rent, making it an ideal choice for entrepreneurs, startups, and established companies looking for a strategic location to establish their presence in São Paulo. With its ample space and competitive pricing, this office provides the perfect setting for a successful business venture.",
+        "pictures": [
+            "https://i.pinimg.com/236x/9d/e8/ac/9de8acb8e54fa43a3ff3ed8bc62ff7ad.jpg"
+        ],
+        "bed": 0,
+        "bath": 1,
+        "security": false,
+        "garage": false,
+        "rent": true,
+        "extent": 78,
+        "price": "200000"
+    },
+    {
+        "id": 6,
+        "title": "Apartment",
+        "address": {
+            "street": "Fernando de Noronha",
+            "city": "Fernando de Noronha",
+            "zipcode": "12345-678",
+            "geo": {
+                "lat": "-23.5632",
+                "lng": "-46.6549"
+            }
+        },
+        "description": "This apartment is located in Fernando de Noronha, Brazil. Enjoy the beautiful views and peaceful surroundings of this island paradise. The apartment has 1 bedroom, 1 bathroom, and offers security and a garage. With a total area of 50 square meters, it provides a cozy living space. Don't miss this opportunity to live in one of the most beautiful places in Brazil!",
+        "pictures": [
+            "https://images.unsplash.com/photo-1455587734955-081b22074882?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=4800",
+            "https://i.pinimg.com/236x/b5/74/7c/b5747c891ee06f40a2b2d8c64fbdac42.jpg",
+            "https://i.pinimg.com/236x/ff/c4/09/ffc409db0426845a99be8d4fb670fab6.jpg",
+            "https://i.pinimg.com/236x/ff/d5/18/ffd5189f979ab6c8795073b660665268.jpg",
+            "https://i.pinimg.com/236x/e6/bf/2f/e6bf2fc608c49994ab097e516059514f.jpg"
+        ],
+        "bed": 1,
+        "bath": 1,
+        "security": true,
+        "garage": true,
+        "rent": false,
+        "extent": 50,
+        "price": "64000"
+    },
+    {
+        "id": 7,
+        "title": "Land and Lots",
+        "address": {
+            "street": "Lençóis Maranhenses",
+            "city": "Barreirinhas",
+            "zipcode": "98765-432",
+            "geo": {
+                "lat": "-3.8448",
+                "lng": "-32.4297"
+            }
+        },
+        "description": "This property is a land located in Lençóis Maranhenses, Barreirinhas, Brazil. With a total area of 92 square meters, this land provides great potential for various purposes. Whether you're looking to.",
+        "pictures": [
+            "https://i.pinimg.com/236x/39/3b/84/393b844fea3860c33e604e6382da27ec.jpg"
+        ],
+        "bed": 0,
+        "bath": 0,
+        "security": false,
+        "garage": false,
+        "rent": false,
+        "extent": 92,
+        "price": "55000"
+    },
+    {
+        "id": 8,
+        "title": "House",
+        "address": {
+            "street": "Chapada Diamantina",
+            "city": "Lençóis",
+            "zipcode": "54321-098",
+            "geo": {
+                "lat": "-2.8563",
+                "lng": "-42.8233"
+            }
+        },
+        "description": "This charming house is located in the picturesque town of Lençóis. With two comfortable bedrooms and a well-appointed bathroom, it offers a cozy living space for you and your family. The property features a secure environment, ensuring your peace of mind. Additionally, the garage provides convenient parking for your vehicles. The house is available for purchase, offering a wonderful opportunity to settle down in this beautiful area. Don't miss out on this affordable property!",
+        "pictures": [
+            "https://i.pinimg.com/236x/64/61/84/646184b4e786d4e39f975ba226f26fe7.jpg",
+            "https://i.pinimg.com/236x/78/c6/53/78c65320548d25974ed798f51abd0627.jpg",
+            "https://i.pinimg.com/236x/b7/38/b0/b738b01fa5b9ad216dc4f8df1d88783d.jpg",
+            "https://i.pinimg.com/564x/9d/a6/da/9da6da269d5174b171a43a627c9389b0.jpg",
+            "https://i.pinimg.com/474x/0d/b8/fc/0db8fcd6900e6d5961748f61cadc8dda.jpg",
+            "https://i.pinimg.com/236x/d9/dc/ae/d9dcaebe8c3545711f539cfa7c5892e4.jpg"
+        ],
+        "bed": 2,
+        "bath": 1,
+        "security": true,
+        "garage": true,
+        "rent": false,
+        "extent": 94,
+        "price": "180000"
+    },
+    {
+        "id": 9,
+        "title": "Garage",
+        "address": {
+            "street": "Foz do Iguaçu",
+            "city": "Foz do Iguaçu",
+            "zipcode": "67890-123",
+            "geo": {
+                "lat": "-12.5611",
+                "lng": "-41.3922"
+            }
+        },
+        "description": "Are you in need of a secure parking space for your vehicle? Look no further! This well-maintained garage is located in Foz do Iguaçu and offers a convenient solution for your parking needs. With reliable security measures in place, you can trust that your vehicle will be safe and protected. The garage is available for purchase at an affordable price, making it a great investment. Don't miss out on this opportunity to own your private parking spot in Foz do Iguaçu!",
+        "pictures": [
+            "https://i.pinimg.com/236x/95/bb/d2/95bbd2c91259382c9b9b6eba3c41a923.jpg"
+        ],
+        "bed": 0,
+        "bath": 0,
+        "security": true,
+        "garage": true,
+        "rent": false,
+        "extent": 30,
+        "price": "60000"
+    },
+    {
+        "id": 10,
+        "title": "Office",
+        "address": {
+            "street": "Brasília",
+            "city": "Brasília",
+            "zipcode": "21098-765",
+            "geo": {
+                "lat": "-25.5162",
+                "lng": "-54.5854"
+            }
+        },
+        "description": "This modern office space is located in the bustling city of Brasília. With a spacious area of 88 square meters, it offers ample room for your professional needs. Although the property doesn't provide security or a dedicated garage, it presents an excellent opportunity for setting up your business in this vibrant city. The office is available for purchase at an affordable price, allowing you to establish a presence in Brasília. Don't miss out on this chance to elevate your professional ventures!",
+        "pictures": [
+            "https://i.pinimg.com/564x/a0/cf/74/a0cf7402a1a29bb66ab916e9015672b4.jpg"
+        ],
+        "bed": 0,
+        "bath": 0,
+        "security": false,
+        "garage": false,
+        "rent": false,
+        "extent": 88,
+        "price": "87000"
+    },
+    {
+        "id": 11,
+        "title": "Apartment",
+        "address": {
+            "street": "Copacabana Beach",
+            "city": "Rio de Janeiro",
+            "zipcode": "12345-678",
+            "geo": {
+                "lat": "-15.8267",
+                "lng": "-47.9218"
+            }
+        },
+        "description": "Experience the vibrant lifestyle of Rio de Janeiro in this stylish apartment situated on the iconic Copacabana Beach. With a cozy bedroom, a well-appointed bathroom, and ample living space, this apartment offers comfort and convenience. Enjoy breathtaking views of the beach and the city skyline from your own private balcony. The property features security measures and a dedicated garage, providing peace of mind and hassle-free parking. This apartment is available for purchase and presents a fantastic opportunity to own a slice of paradise in Rio de Janeiro!",
+        "pictures": [
+            "https://images.unsplash.com/photo-1529266868593-483214d9d63c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+            "https://i.pinimg.com/474x/3c/e0/12/3ce0128525a51a3a905bb35bacb923bc.jpg",
+            "https://i.pinimg.com/236x/ab/a9/7d/aba97d2b8aa13ef1e68b71eb8e4789e1.jpg",
+            "https://i.pinimg.com/236x/d1/55/fe/d155fe935811d09e39394d3dc9c3272a.jpg",
+            "https://i.pinimg.com/236x/6b/88/6f/6b886fbb0d48dd080f41712873c956f2.jpg"
+        ],
+        "bed": 1,
+        "bath": 1,
+        "security": true,
+        "garage": true,
+        "rent": false,
+        "extent": 94,
+        "price": "460000"
+    },
+    {
+        "id": 12,
+        "title": "Land and Lots",
+        "address": {
+            "street": "Ipanema Beach",
+            "city": "Rio de Janeiro",
+            "zipcode": "98765-432",
+            "geo": {
+                "lat": "-22.9719",
+                "lng": "-43.1824"
+            }
+        },
+        "description": "Embrace the opportunity to build your dream property in the prestigious neighborhood of Ipanema Beach, Rio de Janeiro. This land offers a prime location and an area of 56 square meters, providing ample space for your architectural vision. While the property doesn't come with security or a garage, its potential for customization and proximity to the beach make it an enticing investment. Don't miss out on the chance to create a remarkable residence or develop a lucrative project in this desirable area",
+        "pictures": [
+            "https://i.pinimg.com/564x/03/6d/a7/036da79bed77c21b1e8fd365fa8acf06.jpg"
+        ],
+        "bed": 0,
+        "bath": 0,
+        "security": false,
+        "garage": false,
+        "rent": false,
+        "extent": 56,
+        "price": "165000"
+    },
+    {
+        "id": 13,
+        "title": "House",
+        "address": {
+            "street": "Pelourinho",
+            "city": "Salvador",
+            "zipcode": "54321-098",
+            "geo": {
+                "lat": "-22.9845",
+                "lng": "-43.1987"
+            }
+        },
+        "description": "Step into the vibrant streets of Pelourinho with this charming house in Salvador. Featuring two cozy bedrooms and a well-appointed bathroom, this property offers a comfortable living space. Although security and garage information is not mentioned, the house provides an opportunity to immerse yourself in the rich cultural heritage of Salvador. Enjoy the bustling neighborhood and explore the nearby attractions. This house is a unique investment opportunity for those seeking to embrace the energy and charm of Salvador!",
+        "pictures": [
+            "https://i.pinimg.com/236x/f6/14/f3/f614f3080947663f1dcf13f1fb8527d7.jpg",
+            "https://i.pinimg.com/474x/25/17/a2/2517a282dc14f56e8e2bc9f65a292e7d.jpg",
+            "https://i.pinimg.com/564x/9a/67/9f/9a679f0a1959562ad80858c2d1fcaaf2.jpg",
+            "https://i.pinimg.com/236x/bc/86/48/bc86488488ac972d13a5fcb6b3ab4b37.jpg",
+            "https://i.pinimg.com/236x/c1/59/1d/c1591d4d57d34921d5ce4a97154ec655.jpg",
+            "https://i.pinimg.com/236x/ea/cd/70/eacd70a367311cd45f855afcb1a78151.jpg",
+            "https://i.pinimg.com/236x/8c/27/49/8c27499ad20f94d98ebab42d97f50ed5.jpg"
+        ],
+        "bed": 2,
+        "bath": 1,
+        "security": false,
+        "extent": 80,
+        "price": "8200000"
+    },
+    {
+        "id": 14,
+        "title": "Garage",
+        "address": {
+            "street": "Floresta Amazônica",
+            "city": "Manaus",
+            "zipcode": "67890-123",
+            "geo": {
+                "lat": "-12.9722",
+                "lng": "-38.5024"
+            }
+        },
+        "description": "Secure your parking needs with this well-located garage in the heart of Manaus, near the majestic Amazon Rainforest. While specific details regarding security and garage features are not provided, this spacious garage provides a convenient parking solution. Whether you're a resident or a visitor, this property ensures a safe place for your vehicle. Don't miss out on the opportunity to have peace of mind when it comes to parking in Manaus",
+        "pictures": [
+            "https://i.pinimg.com/236x/1e/bb/09/1ebb0917b9c0bcbb9ac22841d1f821c9.jpg"
+        ],
+        "bed": 0,
+        "bath": 0,
+        "security": false,
+        "extent": 90,
+        "price": "10000000"
+    },
+    {
+        "id": 15,
+        "title": "House",
+        "address": {
+            "street": "Pelourinho",
+            "city": "Salvador",
+            "zipcode": "54321-098",
+            "geo": {
+                "lat": "-3.4653",
+                "lng": "-62.2159"
+            }
+        },
+        "description": "Immerse yourself in the rich history and vibrant atmosphere of Pelourinho with this charming house in Salvador. Offering two spacious bedrooms and two well-appointed bathrooms, this property provides comfort and convenience. Although security and garage information is not mentioned, the house's prime location allows you to explore the cultural landmarks and enjoy the energy of Salvador. Don't miss the chance to own a piece of history and experience the captivating charm of Pelourinho",
+        "pictures": [
+            "https://i.pinimg.com/236x/03/02/64/0302649394c461d565299829424bf2f7.jpg",
+            "https://i.pinimg.com/236x/55/8a/17/558a1747736f23a51010d93d1ec04c56.jpg",
+            "https://i.pinimg.com/564x/6d/63/c7/6d63c748d41143cc19fd41ded1deabd5.jpg",
+            "https://i.pinimg.com/236x/52/3c/aa/523caaa9b2a026d86763ae4072a56ab8.jpg",
+            "https://i.pinimg.com/236x/c4/dd/a8/c4dda88128647a591af0ef8a60af5a51.jpg",
+            "https://i.pinimg.com/564x/bc/74/02/bc7402d103e41b1236de6da58598cef4.jpg",
+            "https://i.pinimg.com/236x/8e/0c/d2/8e0cd260a21fe95ec3f841af4b83b403.jpg",
+            "https://i.pinimg.com/236x/e0/06/1a/e0061a14a7d98f1913b50cf3fa125929.jpg"
+        ],
+        "bed": 2,
+        "bath": 2,
+        "security": false,
+        "extent": 162,
+        "price": "4300000"
+    },
+    {
+        "id": 16,
+        "title": "House",
+        "address": {
+            "street": "Floresta Amazônica",
+            "city": "Manaus",
+            "zipcode": "67890-123",
+            "geo": {
+                "lat": "-3.4653",
+                "lng": "-62.2159"
+            }
+        },
+        "description": "Discover the beauty of the Amazon rainforest with this stunning house in Manaus. Featuring one bedroom and two well-appointed bathrooms, this property offers a comfortable living space. With a focus on security, you can enjoy peace of mind. The house boasts an area of 100 square meters, providing ample space for your needs. Immerse yourself in the natural wonders of the surrounding area and embrace the unique lifestyle that Manaus has to offer",
+        "pictures": [
+            "https://i.pinimg.com/236x/0b/e1/5f/0be15fdcdfbe5f7c57931bf3992d989d.jpg",
+            "https://i.pinimg.com/564x/c3/5c/83/c35c830679f20d75e0e63e5936dfcb04.jpg",
+            "https://i.pinimg.com/236x/fb/dd/3f/fbdd3fdf3241c5cc68667d9852ecd6a4.jpg",
+            "https://i.pinimg.com/236x/51/65/56/516556442e93dd5cd72bec0edaef391a.jpg",
+            "https://i.pinimg.com/236x/15/5c/40/155c40f6ea4fbaf7dc3d3e89cdc2203d.jpg",
+            "https://i.pinimg.com/236x/ae/a3/25/aea3254a31cb8c5097c0d680123eb03a.jpg"
+        ],
+        "bed": 1,
+        "bath": 2,
+        "security": true,
+        "extent": 100,
+        "price": "600000000"
+    },
+    {
+        "id": 17,
+        "title": "House",
+        "address": {
+            "street": "Floresta Amazônica",
+            "city": "Manaus",
+            "zipcode": "67890-123",
+            "geo": {
+                "lat": "-3.4653",
+                "lng": "-62.2159"
+            }
+        },
+        "description": "Experience the tranquility of the Amazon rainforest with this charming house in Manaus. Featuring two bedrooms and one well-appointed bathroom, this property offers a cozy and inviting atmosphere. While security measures are not specified, the house provides ample living space with an area of 200 square meters. Immerse yourself in the natural beauty of the surrounding area and enjoy the peaceful ambiance that Manaus has to offer!",
+        "pictures": [
+            "https://i.pinimg.com/236x/ab/3b/55/ab3b55b5373e188af19983635a351083.jpg",
+            "https://i.pinimg.com/236x/f1/fa/72/f1fa723a6e2dc5cc9be8cbd6569659d0.jpg",
+            "https://i.pinimg.com/236x/d3/77/aa/d377aae157b20b71b9aae8f820a167aa.jpg",
+            "https://i.pinimg.com/564x/f9/22/c9/f922c9810d5317320da284cc0c15abd9.jpg",
+            "https://i.pinimg.com/236x/9e/62/85/9e6285d7123a1fb9dc70029e57c0dea5.jpg",
+            "https://i.pinimg.com/236x/30/ec/b7/30ecb788976eaf33e5359f2816a7ec88.jpg",
+            "https://i.pinimg.com/236x/c8/d0/c6/c8d0c65491c85dd9ea49d7d9effaf022.jpg",
+            "https://i.pinimg.com/236x/a9/9d/e8/a99de8f0b170bc9584e2a18611767edb.jpg",
+            "https://i.pinimg.com/236x/10/4d/d5/104dd566c24f132dd3908663571761f8.jpg",
+            "https://i.pinimg.com/236x/54/16/dd/5416dd6b40e12e106c604b67ed3595d2.jpg"
+        ],
+        "bed": 2,
+        "bath": 1,
+        "security": false,
+        "extent": 200,
+        "price": "59000000"
+    },
+    {
+        "id": 18,
+        "title": "Apartment",
+        "address": {
+            "street": "Floresta Amazônica",
+            "city": "Manaus",
+            "zipcode": "67890-123",
+            "geo": {
+                "lat": "-3.4653",
+                "lng": "-62.2159"
+            }
+        },
+        "description": "Embrace comfortable living with this cozy apartment in Manaus. Featuring one bedroom and one well-appointed bathroom, this property offers a convenient and compact living space. While specific security and garage information is not provided, this apartment presents an affordable opportunity to reside in Manaus. With an area of 44 square meters, it provides a functional space to meet your needs. Experience the unique lifestyle of this vibrant city in the heart of the Amazon",
+        "pictures": [
+            "https://i.pinimg.com/236x/48/00/d9/4800d974d7aba91a9bbce43e3a549a6e.jpg",
+            "https://i.pinimg.com/236x/42/5c/65/425c6520c85bee10f501aa9f26c8dba0.jpg",
+            "https://i.pinimg.com/564x/00/b7/2c/00b72c5f4874c88e6db6d834a45a07b2.jpg"
+        ],
+        "bed": 1,
+        "bath": 1,
+        "security": false,
+        "extent": 44,
+        "price": "98000"
+    },
+    {
+        "id": 19,
+        "title": "Apartment",
+        "address": {
+            "street": "Floresta Amazônica",
+            "city": "Manaus",
+            "zipcode": "67890-123",
+            "geo": {
+                "lat": "-3.4653",
+                "lng": "-62.2159"
+            }
+        },
+        "description": "Discover the allure of Manaus with this inviting apartment. Featuring one bedroom and one well-appointed bathroom, this property offers a comfortable living space. With security measures in place, you can enjoy peace of mind. The apartment spans an area of 66 square meters, providing ample room for your daily activities. Immerse yourself in the vibrant culture and natural beauty of Manaus while enjoying the comforts of this charming apartment",
+        "pictures": [
+            "https://i.pinimg.com/236x/b4/2c/50/b42c504c1926287a854096f55fd43af6.jpg",
+            "https://i.pinimg.com/236x/2a/59/5c/2a595c2606dfd46a7941350b80509a89.jpg",
+            "https://i.pinimg.com/236x/e2/98/e1/e298e10fb789b3e00a49aca98cae383e.jpg"
+        ],
+        "bed": 1,
+        "bath": 1,
+        "security": true,
+        "extent": 66,
+        "price": "320000"
+    },
+    {
+        "id": 20,
+        "title": "Apartment",
+        "address": {
+            "street": "Floresta Amazônica",
+            "city": "Manaus",
+            "zipcode": "67890-123",
+            "geo": {
+                "lat": "-3.4653",
+                "lng": "-62.2159"
+            }
+        },
+        "description": "Indulge in luxury living with this exquisite apartment in Manaus. Boasting one bedroom and one well-appointed bathroom, this property offers a sophisticated and elegant living space. With security measures in place, you can enjoy peace of mind. The apartment spans an area of 110 square meters, providing ample room for relaxation and entertainment. Immerse yourself in the vibrant culture and natural beauty of Manaus while enjoying the comforts of this exceptional apartment",
+        "pictures": [
+            "https://images.unsplash.com/photo-1469047616593-20bed1f1217a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDl8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=400&q=60",
+            "https://i.pinimg.com/236x/e2/ea/30/e2ea30707399c4c386832775ae896ad8.jpg",
+            "https://i.pinimg.com/236x/9e/41/46/9e414621eb4ba45acd4a4a37b53186ae.jpg"
+        ],
+        "bed": 1,
+        "bath": 1,
+        "security": true,
+        "extent": 110,
+        "price": "1500000"
+    },
+    {
+        "id": 21,
+        "title": "Garage",
+        "address": {
+            "street": "Floresta Amazônica",
+            "city": "Manaus",
+            "zipcode": "67890-123",
+            "geo": {
+                "lat": "-3.4653",
+                "lng": "-62.2159"
+            }
+        },
+        "description": "Secure your parking needs with this well-located garage in the heart of Manaus. While specific details regarding security and garage features are not provided, this spacious garage provides a convenient parking solution. Whether you're a resident or a visitor, this property ensures a safe place for your vehicle. Don't miss out on the opportunity to have peace of mind when it comes to parking in Manaus",
+        "pictures": [
+            "https://i.pinimg.com/236x/c3/e4/ea/c3e4ea19e220740afa130f337478b8ca.jpg"
+        ],
+        "bed": 0,
+        "bath": 0,
+        "security": false,
+        "extent": 50,
+        "price": "11000000"
+    },
+    {
+        "id": 22,
+        "title": "Garage",
+        "address": {
+            "street": "Floresta Amazônica",
+            "city": "Manaus",
+            "zipcode": "67890-123",
+            "geo": {
+                "lat": "-3.4653",
+                "lng": "-62.2159"
+            }
+        },
+        "description": "Secure your parking needs with this spacious garage in Manaus. While specific details regarding security and garage features are not provided, this property offers ample space for parking multiple vehicles. Whether you're a resident or a visitor, this garage provides a convenient solution for your parking requirements. Don't miss out on the opportunity to secure your vehicles in the heart of Manaus",
+        "pictures": [
+            "https://i.pinimg.com/236x/8a/38/1a/8a381a9b46a7e3063545364c3db0ad83.jpg"
+        ],
+        "bed": 0,
+        "bath": 0,
+        "security": false,
+        "extent": 210,
+        "price": "40000"
+    }
+]
